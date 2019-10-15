@@ -1,6 +1,6 @@
 # Solar_System
 
-**Solar System when you can find info about our planets, such as:**
+**Solar System App, made with Java,where you can find info about our planets, such as:**
 * Distance to Sun.
 * Revolution Period in Years.
 * Rotation Period in Days.
