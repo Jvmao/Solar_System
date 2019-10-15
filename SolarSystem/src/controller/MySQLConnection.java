@@ -20,8 +20,8 @@ public class MySQLConnection {
 	public boolean MySQLDB() throws ClassNotFoundException {
 		host="localhost";
 		db="SolarSystem?serverTimezone=";
-		user="root";
-		pass="";
+		user="****";
+		pass="****";
 		
 		try {
 			//Connection to DB
