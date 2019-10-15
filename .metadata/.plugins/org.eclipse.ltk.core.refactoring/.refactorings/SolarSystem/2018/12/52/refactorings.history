@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SolarSystem/src/images/iconfinder_exit_1736.png&apos; to &apos;iconExit.png&apos;" description="Rename resource &apos;iconfinder_exit_1736.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/images/iconfinder_exit_1736.png" name="iconExit.png" stamp="1545582008153" updateReferences="true"/>
+</session>
