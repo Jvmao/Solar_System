@@ -9,3 +9,5 @@
 * Average Temperature.
 * Atmosphere main components.
 * Moons.
+
+![](/Solar_System/app_image1.png)
