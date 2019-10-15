@@ -9,6 +9,3 @@
 * Average Temperature.
 * Atmosphere main components.
 * Moons.
-
-
-![picture Image 1](/Users/josemarti/Documents/SolarSystem/app_image1.png)
